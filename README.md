@@ -4,4 +4,5 @@
 编译方式  
 ```bash
 gcc hello.c -o hello
+
 ./hello
